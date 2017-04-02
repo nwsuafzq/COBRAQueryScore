@@ -1,0 +1,5 @@
+interface DataService
+{
+	void insert(in string sid,in string sname,in float score);
+	string check(in string sid);
+};

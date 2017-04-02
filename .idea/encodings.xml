@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ClientCOBRA/src/cn/nwafulive/zq/client/DataService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ClientCOBRA/src/cn/nwafulive/zq/client/DataServiceClient.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ClientCOBRA/src/cn/nwafulive/zq/client/DataServiceHolder.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ClientCOBRA/src/cn/nwafulive/zq/client/DataServiceOperations.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ClientCOBRA/src/cn/nwafulive/zq/client/DataServicePOA.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ClientCOBRA/src/cn/nwafulive/zq/client/_DataServiceStub.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ServerCORBA/src/cn/nwafulive/zq/server/DataService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ServerCORBA/src/cn/nwafulive/zq/server/DataServiceHolder.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ServerCORBA/src/cn/nwafulive/zq/server/DataServiceOperations.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ServerCORBA/src/cn/nwafulive/zq/server/DataServicePOA.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ServerCORBA/src/cn/nwafulive/zq/server/DataServiceServer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ServerCORBA/src/cn/nwafulive/zq/server/_DataServiceStub.java" charset="GBK" />
+  </component>
+</project>

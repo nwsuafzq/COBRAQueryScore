@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/COBRAScoreCheck.iml" filepath="$PROJECT_DIR$/COBRAScoreCheck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClientCOBRA/ClientCOBRA.iml" filepath="$PROJECT_DIR$/ClientCOBRA/ClientCOBRA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServerCORBA/ServerCORBA.iml" filepath="$PROJECT_DIR$/ServerCORBA/ServerCORBA.iml" />
+    </modules>
+  </component>
+</project>
